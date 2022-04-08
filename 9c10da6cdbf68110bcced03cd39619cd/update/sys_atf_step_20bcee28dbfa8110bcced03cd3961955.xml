@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Checks if the scoped app "DataSilos" is installed in a compatible version to: 3.3.0
+</description>
+        <display_name>DevTools - Check scoped app dependency</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="DevTools - Check scoped app dependency">c3f56886db3da490ba15a353059619ff</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:27:27</sys_created_on>
+        <sys_id>20bcee28dbfa8110bcced03cd3961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevTools - Check scoped app dependency</sys_name>
+        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_update_name>sys_atf_step_20bcee28dbfa8110bcced03cd3961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:27:27</sys_updated_on>
+        <table/>
+        <test display_value="DataSilosRM - Installation">7d18e620dbfa8110bcced03cd3961963</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=20bcee28dbfa8110bcced03cd3961955"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>20bcee28dbfa8110bcced03cd3961955</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:27:27</sys_created_on>
+        <sys_id>bfbc2268dbfa8110bcced03cd3961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:27:27</sys_updated_on>
+        <value>3.3.0</value>
+        <variable display_value="Versions">fc5964cadb3da490ba15a353059619b3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>20bcee28dbfa8110bcced03cd3961955</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:27:27</sys_created_on>
+        <sys_id>f7bc2268dbfa8110bcced03cd3961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:27:27</sys_updated_on>
+        <value>dafbffebdbb78450ba15a353059619eb</value>
+        <variable display_value="Application">7cf8ac8adb3da490ba15a353059619f5</variable>
+    </sys_variable_value>
+</record_update>
