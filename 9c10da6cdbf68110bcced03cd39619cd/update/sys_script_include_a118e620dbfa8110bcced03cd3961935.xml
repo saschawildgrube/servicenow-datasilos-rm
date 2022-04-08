@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_datasilosrm.AppGetDependencies</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>false</client_callable>
+        <description>Retrieves information about the app's dependencies to other apps and required versions.</description>
+        <name>AppGetDependencies</name>
+        <script><![CDATA[function AppGetDependencies()
+{
+	return [
+		{
+			name: 'DevTools',
+			version: '1.37.0',
+			url: 'https://github.com/saschawildgrube/servicenow-devtools/',
+			website_url: 'https://www.wildgrube.com/servicenow-devtools'
+		}
+		,
+		{
+			name: 'DataSilos',
+			version: '3.4.0',
+			url: 'https://github.com/saschawildgrube/servicenow-datasilos/',
+			website_url: 'https://www.wildgrube.com/servicenow-datasilos'
+		}
+	];
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:07:05</sys_created_on>
+        <sys_id>a118e620dbfa8110bcced03cd3961935</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AppGetDependencies</sys_name>
+        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_update_name>sys_script_include_a118e620dbfa8110bcced03cd3961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:07:23</sys_updated_on>
+    </sys_script_include>
+</record_update>

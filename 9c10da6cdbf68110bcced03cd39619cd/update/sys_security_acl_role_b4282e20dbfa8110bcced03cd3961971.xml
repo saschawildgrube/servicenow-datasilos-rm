@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:07:18</sys_created_on>
+        <sys_id>b4282e20dbfa8110bcced03cd3961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rm_feature.x_snc_datasilosrm_last_maintenance.x_snc_datasilos.manager</sys_name>
+        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_security_acl display_value="rm_feature.x_snc_datasilosrm_last_maintenance">b8282e20dbfa8110bcced03cd396196d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b4282e20dbfa8110bcced03cd3961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:07:18</sys_updated_on>
+        <sys_user_role display_value="x_snc_datasilos.manager" name="x_snc_datasilos.manager">23df0da71b48d490a89720a8ec4bcb72</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

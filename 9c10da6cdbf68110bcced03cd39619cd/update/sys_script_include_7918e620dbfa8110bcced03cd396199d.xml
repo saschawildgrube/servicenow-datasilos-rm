@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_datasilosrm.DataSilosRecordUpdate</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>false</client_callable>
+        <description>The DataSilosRecordUpdate function is called by the DataSilos extension point instance class and processes a record when it is updated. Return true if the record is handled by the function, false if not.</description>
+        <name>DataSilosRecordUpdate</name>
+        <script><![CDATA[function DataSilosRecordUpdate(record)
+{
+	var IsValidRecord = x_snc_devtools.IsValidRecord;
+	var RenderValue = x_snc_devtools.RenderValue;
+
+	var bResult = false;
+
+	var strTable = x_snc_datasilos.GetSupportedTableFromRecord(record);
+
+	if (strTable == 'rm_product')
+	{
+		//Add your code here...
+		bResult = true;
+	}
+	
+	if (strTable == 'rm_release')
+	{
+		//Add your code here...
+		bResult = true;
+	}
+	
+	if (strTable == 'rm_feature')
+	{
+		//Add your code here...
+		bResult = true;
+	}
+	
+	if (strTable == 'rm_release_phase')
+	{
+		//Add your code here...
+		bResult = true;
+	}
+	
+	if (strTable == 'rm_task')
+	{
+		//Add your code here...
+		bResult = true;
+	}
+	
+	return bResult;
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:07:06</sys_created_on>
+        <sys_id>7918e620dbfa8110bcced03cd396199d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>DataSilosRecordUpdate</sys_name>
+        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_update_name>sys_script_include_7918e620dbfa8110bcced03cd396199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:07:23</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Release Management" source="com.snc.release_management_v2">9b811660db3a8110bcced03cd39619b0</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 14:07:07</sys_created_on>
+        <sys_id>4218e620dbfa8110bcced03cd39619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 14:07:07</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

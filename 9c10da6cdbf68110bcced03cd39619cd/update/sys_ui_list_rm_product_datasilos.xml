@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="rm_product" version="2" view="datasilos">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>1f186a20dbfa8110bcced03cd396194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>1f186a20dbfa8110bcced03cd396194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>17186a20dbfa8110bcced03cd3961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>1f186a20dbfa8110bcced03cd3961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_global</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>57186a20dbfa8110bcced03cd3961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_supervisor_whitelist</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>9f186a20dbfa8110bcced03cd3961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_fulfiller_whitelist</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>d7186a20dbfa8110bcced03cd3961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_group_whitelist</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>13186a20dbfa8110bcced03cd3961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_security_clearance</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>5b186a20dbfa8110bcced03cd3961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_ghost</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>93186a20dbfa8110bcced03cd3961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_datasilosrm_last_maintenance</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>db186a20dbfa8110bcced03cd3961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>d3186a20dbfa8110bcced03cd3961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="rm_product" element="NULL" name="rm_product" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">97186a20dbfa8110bcced03cd396194c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_id>53186a20dbfa8110bcced03cd3961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>rm_product</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 14:07:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97186a20dbfa8110bcced03cd396194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rm_product</sys_name>
+            <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+            <sys_update_name>sys_ui_list_rm_product_datasilos</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 14:07:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="DataSilos" name="datasilos">268b1d0adb849090ba15a35305961902</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
