@@ -51,9 +51,9 @@
         <sys_id>32182a20dbfa8110bcced03cd39619fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>DataSilos Last Maintenance</sys_name>
-        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_package display_value="DataSilos Release Management" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_scope display_value="DataSilos Release Management">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
         <sys_update_name>sys_dictionary_rm_product_x_snc_datasilosrm_last_maintenance</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-08 14:07:10</sys_updated_on>

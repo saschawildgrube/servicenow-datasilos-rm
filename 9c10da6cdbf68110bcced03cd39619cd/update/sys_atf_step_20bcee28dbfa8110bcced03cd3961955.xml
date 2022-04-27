@@ -2,7 +2,7 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <copied_from/>
-        <description>Checks if the scoped app "DataSilos" is installed in a compatible version to: 3.3.0
+        <description>Checks if the scoped app "DataSilos" is installed in a compatible version to: 3.4.0
 </description>
         <display_name>DevTools - Check scoped app dependency</display_name>
         <inputs/>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-08 14:27:27</sys_created_on>
         <sys_id>20bcee28dbfa8110bcced03cd3961955</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>DevTools - Check scoped app dependency</sys_name>
-        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_package display_value="DataSilos Release Management" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_scope display_value="DataSilos Release Management">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
         <sys_update_name>sys_atf_step_20bcee28dbfa8110bcced03cd3961955</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-08 14:27:27</sys_updated_on>
+        <sys_updated_on>2022-04-27 07:44:48</sys_updated_on>
         <table/>
         <test display_value="DataSilosRM - Installation">7d18e620dbfa8110bcced03cd3961963</test>
         <timeout/>
@@ -37,10 +37,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-08 14:27:27</sys_created_on>
         <sys_id>bfbc2268dbfa8110bcced03cd3961904</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-08 14:27:27</sys_updated_on>
-        <value>3.3.0</value>
+        <sys_updated_on>2022-04-27 07:44:49</sys_updated_on>
+        <value>3.4.0</value>
         <variable display_value="Versions">fc5964cadb3da490ba15a353059619b3</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

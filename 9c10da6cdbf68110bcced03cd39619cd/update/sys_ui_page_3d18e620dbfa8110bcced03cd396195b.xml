@@ -17,7 +17,8 @@
 	<p>Welcome to DataSilosRM - the DataSilos plugin for Release Management - created and maintained by&#160;<a href="mailto:sascha.wildgrube@servicenow.com">Sascha Wildgrube</a>.</p>
 
 	<h2>Features</h2> 
-	<p>This app extends DataSilos to the tables contained in the Release Management plugin.</p>
+	<p>This app extends DataSilos to the tables rm_product, rm_release, rm_feature and rm_task contained in the Release Management plugin.</p>
+	<p>Related records are not (yet) considered, so visibility to a task does not automatically make related features or releases visible. However, this feature might be added at a later point in time.</p>
 
 	<h2>Disclaimer</h2>
 	<g2:no_escape>$[docapi.RenderDisclaimer()]</g2:no_escape>	
@@ -72,7 +73,7 @@
 		<li>TODO: document changes here</li>
 	</ol>
 -->
-	<h3>1.0.0 - 2022-TODO</h3>
+	<h3>1.0.0 - 2022-04-27</h3>
 	<p>First baselined version</p>
 
 <span style="visibility: hidden;">_CUT_HERE_</span>
@@ -84,13 +85,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-08 14:07:05</sys_created_on>
         <sys_id>3d18e620dbfa8110bcced03cd396195b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>manual</sys_name>
-        <sys_package display_value="DataSilosRM WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_package display_value="DataSilos Release Management" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DataSilosRM WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_scope display_value="DataSilos Release Management">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
         <sys_update_name>sys_ui_page_3d18e620dbfa8110bcced03cd396195b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-08 14:39:02</sys_updated_on>
+        <sys_updated_on>2022-04-27 07:51:24</sys_updated_on>
     </sys_ui_page>
 </record_update>
