@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Checks if all ACLs are correctly configured for table: [rm_product]
+</description>
+        <display_name>DataSilos - Check ACLs</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="DataSilos - Check ACLs">5f42f662db23d810ba15a353059619cd</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-25 13:12:20</sys_created_on>
+        <sys_id>3b3ed0ffdb6b0914bcced03cd396194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DataSilos - Check ACLs</sys_name>
+        <sys_package display_value="DataSilos Release Management WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataSilos Release Management WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_update_name>sys_atf_step_3b3ed0ffdb6b0914bcced03cd396194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-25 13:12:20</sys_updated_on>
+        <table/>
+        <test display_value="DataSilosRM - Installation">7d18e620dbfa8110bcced03cd3961963</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=3b3ed0ffdb6b0914bcced03cd396194b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>3b3ed0ffdb6b0914bcced03cd396194b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-25 13:12:20</sys_created_on>
+        <sys_id>4a4ed0ffdb6b0914bcced03cd3961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-25 13:12:20</sys_updated_on>
+        <value>rm_product</value>
+        <variable display_value="Table">36b2fe62db23d810ba15a3530596192f</variable>
+    </sys_variable_value>
+</record_update>

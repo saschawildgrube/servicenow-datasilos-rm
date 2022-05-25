@@ -6,9 +6,9 @@
         <sys_id>39286e20dbfa8110bcced03cd39619c1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rm_task.x_snc_datasilosrm_security_clearance.x_snc_datasilos.manager</sys_name>
-        <sys_package display_value="DataSilos Release Management" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
+        <sys_package display_value="DataSilos Release Management WORK IN PROGRESS" source="x_snc_datasilosrm">9c10da6cdbf68110bcced03cd39619cd</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DataSilos Release Management">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
+        <sys_scope display_value="DataSilos Release Management WORK IN PROGRESS">9c10da6cdbf68110bcced03cd39619cd</sys_scope>
         <sys_security_acl display_value="rm_task.x_snc_datasilosrm_security_clearance">3d286e20dbfa8110bcced03cd39619bd</sys_security_acl>
         <sys_update_name>sys_security_acl_role_39286e20dbfa8110bcced03cd39619c1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
